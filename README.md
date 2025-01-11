@@ -17,4 +17,4 @@ Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can 
 
 ## Code
 
-You can check out code here at Tic-Tac-Toe game [here](https://jennyrishabh.github.io/t3-game/).
+You can check out code here at Tic-Tac-Toe game [here](https://jennyrishabh.github.io/t3-game/tictactoe.html).
