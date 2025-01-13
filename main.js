@@ -19,7 +19,7 @@ class test{
       }
       else{
         alert('Player '+this.currPlayer+' has Won the Game !'+'\n'+'Board is going to get reset....')
-        document.getElementById('txt').innerHTML = 'Player '+this.currPlayer+' has Won the Game !';
+        //document.getElementById('txt').innerHTML = 'Player '+this.currPlayer+' has Won the Game !';
         //restart
         setTimeout(this.start.bind(this),2000);
       }
